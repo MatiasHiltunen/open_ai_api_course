@@ -5,7 +5,9 @@
 lataa tai kloonaa gittiä käyttäen koodit koneellesi
 
 - index.js tiedosto sisältää osittain toteutetun koodin käyttämällä .then -menetelmää Promisen purkamisessa
-- chat.js on varsinainen toimiva versio, siinä on vastaavasti hyödynnetty async -funktioita _.then_-menetelmän sijasta 
+- chat.js on varsinainen toimiva versio, siinä on vastaavasti hyödynnetty async -funktioita _.then_-menetelmän sijasta
+
+- Lisää API-avain Moodlesta koodiin
 
 ### Tarvitaan 
 
